@@ -1,0 +1,53 @@
+<Localization>
+    
+    <Prefix>Test.XML</Prefix>
+
+    <String id="01">
+        <EN>XML - en</EN>
+        <RU>XML - ru</RU>
+        <PL>XML - pl</PL>
+    </String>
+
+    <String id="02">
+        <EN>XML - English</EN>
+        <RU>XML - Русский</RU>
+        <PL>XML - Polski</PL>
+    </String>
+    
+    <Group>
+        
+        <Prefix>Group</Prefix>
+
+        <String id="01">
+            <EN>XML - en</EN>
+            <RU>XML - ru</RU>
+            <PL>XML - pl</PL>
+        </String>
+
+        <String id="02">
+            <EN>XML - English</EN>
+            <RU>XML - Русский</RU>
+            <PL>XML - Polski</PL>
+        </String>
+
+        <Group>
+
+            <Prefix>InnerGroup</Prefix>
+
+            <String id="01">
+                <EN>XML - en</EN>
+                <RU>XML - ru</RU>
+                <PL>XML - pl</PL>
+            </String>
+
+            <String id="02">
+                <EN>XML - English</EN>
+                <RU>XML - Русский</RU>
+                <PL>XML - Polski</PL>
+            </String>
+
+        </Group>
+        
+    </Group>
+    
+</Localization>
