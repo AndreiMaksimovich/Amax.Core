@@ -1,0 +1,20 @@
+{
+  "name": "com.amaxsoftware.core",
+  "version": "0.1.0",
+  "displayName": "Amax.Core",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/AndreiMaksimovich/Amax.Core/blob/main/LICENSE",
+  "keywords": [],
+  "author": {
+    "name": "Andrei Maksimovich",
+    "email": "andrzej.m@amaxsoftware.com",
+    "url": "https://amaxsoftware.com"
+  },
+  "hideInEditor": false,
+  "type": "library",
+  "dependencies": {
+    "com.unity.textmeshpro": "",
+    "com.unity.addressables": ""
+  }
+}

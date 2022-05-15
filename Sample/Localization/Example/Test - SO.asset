@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc39954def93458c92e13fd33045eaf9, type: 3}
+  m_Name: Test - SO
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Test.SO
+  <StringIdPrefix>k__BackingField: Test.SO
+  <LocalizedStrings>k__BackingField:
+  - id: 01
+    values:
+      keys: 0a0000001b0000001e000000
+      values:
+      - SO - en
+      - SO - pl
+      - SO - ru
+  - id: 02
+    values:
+      keys: 0a0000001b0000001e000000
+      values:
+      - SO - English
+      - SO - Polski
+      - "SO - \u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+  <LocalizedStringGroups>k__BackingField:
+  - idPrefix: Group
+    strings:
+    - id: 01
+      values:
+        keys: 0a0000001b0000001e000000
+        values:
+        - SO - en
+        - SO - pl
+        - SO - ru
+    - id: 02
+      values:
+        keys: 0a0000001b0000001e000000
+        values:
+        - SO - English
+        - SO - Polski
+        - SO - Russian
