@@ -12,7 +12,7 @@ using UnityEngine;
 namespace Amax.Localization
 {
     
-    [CreateAssetMenu(menuName = "Amax/Text.Localization/LocalizedStrings - CSV", fileName = "LocalizedStringsCsv.asset", order = -3)]
+    [CreateAssetMenu(menuName = "Amax/Localization/LocalizedStringsCSV", fileName = "LocalizedStringsCsv.asset")]
     public class LocalizedStringProviderCsv: ALocalizedStringProvider
     {
         [field: SerializeField] public override string Id { get; set; }

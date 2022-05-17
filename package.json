@@ -1,10 +1,10 @@
 {
   "name": "com.amaxsoftware.core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Amax.Core",
   "documentationUrl": "",
   "changelogUrl": "",
-  "licensesUrl": "https://github.com/AndreiMaksimovich/Amax.Core/blob/main/LICENSE",
+  "licensesUrl": "https://github.com/AndreiMaksimovich/Amax.Core/blob/main/LICENSE.md",
   "keywords": [],
   "author": {
     "name": "Andrei Maksimovich",

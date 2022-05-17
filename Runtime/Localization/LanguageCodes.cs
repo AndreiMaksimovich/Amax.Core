@@ -98,10 +98,9 @@ namespace Amax.Localization
         public static string GetLanguageCode(SystemLanguage language, string defaultValue = null) 
 	        => LanguageToLanguageCode.ContainsKey(language) ? LanguageToLanguageCode[language] : defaultValue;
         
-        public static SystemLanguage GetLanguage(string languageCode, SystemLanguage defaultValue = DefaultLanguage)
-        {
-	        return LanguageCodeToLanguage.ContainsKey(languageCode) ? LanguageCodeToLanguage[languageCode] : defaultValue;
-        }
+        public static SystemLanguage GetLanguage(string languageCode, SystemLanguage defaultValue = DefaultLanguage) 
+	        => LanguageCodeToLanguage.ContainsKey(languageCode) ? LanguageCodeToLanguage[languageCode] : defaultValue;
+        
 		
         // ----------------------------------------------------------------
 		

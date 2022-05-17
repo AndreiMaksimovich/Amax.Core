@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace Amax.Localization
 {
-    [CreateAssetMenu(menuName = "Amax/Text.Localization/LocalizedStrings - SO", fileName = "LocalizedStrings.asset", order = -1)]
+    [CreateAssetMenu(menuName = "Amax/Localization/LocalizedStringsSO", fileName = "LocalizedStrings.asset")]
     public class LocalizedStringProvider: ALocalizedStringProvider
     {
         

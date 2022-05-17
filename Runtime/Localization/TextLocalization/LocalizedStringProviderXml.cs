@@ -13,7 +13,7 @@ using UnityEngine;
 
 namespace Amax.Localization
 {
-    [CreateAssetMenu(menuName = "Amax/Text.Localization/LocalizedStrings - XML", fileName = "LocalizedStringsXml.asset", order = -2)]
+    [CreateAssetMenu(menuName = "Amax/Localization/LocalizedStringsXML", fileName = "LocalizedStringsXml.asset")]
     public class LocalizedStringProviderXml: ALocalizedStringProvider
     {
 

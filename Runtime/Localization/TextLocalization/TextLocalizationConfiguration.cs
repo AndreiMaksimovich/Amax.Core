@@ -11,7 +11,7 @@ using UnityEngine;
 namespace Amax.Localization
 {
     
-    [CreateAssetMenu(menuName = "Amax/Text.Localization/Configuration", fileName = "TextLocalization.Configuration.asset")]
+    [CreateAssetMenu(menuName = "Amax/Localization/TextLocalizationConfiguration", fileName = "TextLocalization.Configuration.asset")]
     public class TextLocalizationConfiguration: ScriptableObject
     {
         [field: SerializeField] public bool ShowWarnings { get; private set; } = true;
